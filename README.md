@@ -1,12 +1,13 @@
 # Multiple-attention-based-encoder-decoder-networks
 Multiple attention-based encoder-decoder networks for gas meter character recognition
 
-#### Install Package
+## Install Package
 ```
 pip install -r requestments.txt
 ```
-#### Run
-```
+
+### Run
+```python
 python train.py #training model
 python predict.py #prediction
 ```
